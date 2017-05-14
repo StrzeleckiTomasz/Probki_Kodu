@@ -100,3 +100,13 @@ Zalety języka JavaScript:
 - jest niezależny od systemu 
 
 - pozwala on na odciążenie serwerów i ograniczenie ilości zbędnych danych przesyłanych pomiędzy nimi a przeglądarką klienta
+
+# 2.7. Wykorzystane Programy
+
+W internecie znajduje się wiele przydatnych programów, narzędzi które ułatwiają nam pracę i pomagają w jej realizacji. Poniżej  znajduje się lista programów, które wykorzystałem w  stworzeniu swojej strony internetowej.
+
+Notepad++ 6.9.2  - darmowy edytor kodu źródłowego obsługującego wiele języków oraz zastępca domyślnego Notatnika. Korzysta tylko z zestawów API i STL Win32, co zapewnia szybszą pracę i mniejszy rozmiar programu.
+
+PhpMyAdmin 4.6.4 - narzędzie służące do łatwego zarządzania bazą danych MySql. Umożliwia między innymi tworzenie/usuwanie baz danych, dodawanie/kasowanie relacji oraz edycję ich struktury i zawartości. Wszystkie operacje mogą być wykonywane z poziomu przeglądarki internetowej, w graficznym środowisku, bez konieczności pracy z domyślnym interfejsem tekstowym. 
+
+FileZilla 3.21 - prosty w obsłudze, polskojęzyczny i darmowy klient FTP o otwartym kodzie źródłowym . Obsługuje protokoły FTP, SFTP i FTPS (FTP po SSL/TLS). Umożliwia wznawianie połączenia, kopiowanie za pomocą techniki "przeciągnij i upuść" ("Drag&Drop") oraz oferuje wsparcie dla SOCKS4/5, HTTP/1.1 i FTP-Proxy. 
