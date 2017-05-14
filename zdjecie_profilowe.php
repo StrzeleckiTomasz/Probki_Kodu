@@ -1,5 +1,5 @@
 ...
-
+//pamietac aby stworzyc folder 'profil'
 
 	<div class ="profil">
 <?php
